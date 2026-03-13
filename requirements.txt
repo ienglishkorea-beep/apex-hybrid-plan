@@ -4,3 +4,4 @@ requests
 yfinance
 lxml
 html5lib
+beautifulsoup4
