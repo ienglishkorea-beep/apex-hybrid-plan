@@ -1,0 +1,81 @@
+ticker,name,market_cap
+AAPL,Apple Inc,3200000000000
+MSFT,Microsoft Corporation,3100000000000
+NVDA,NVIDIA Corporation,2900000000000
+AMZN,Amazon.com Inc,1900000000000
+META,Meta Platforms Inc,1300000000000
+AVGO,Broadcom Inc,800000000000
+TSLA,Tesla Inc,550000000000
+NFLX,Netflix Inc,400000000000
+AMD,Advanced Micro Devices Inc,250000000000
+ORCL,Oracle Corporation,380000000000
+CRM,Salesforce Inc,280000000000
+ADBE,Adobe Inc,240000000000
+INTU,Intuit Inc,180000000000
+NOW,ServiceNow Inc,180000000000
+PANW,Palo Alto Networks Inc,130000000000
+CRWD,CrowdStrike Holdings Inc,85000000000
+DDOG,Datadog Inc,45000000000
+SNOW,Snowflake Inc,70000000000
+MDB,MongoDB Inc,25000000000
+SHOP,Shopify Inc,110000000000
+PLTR,Palantir Technologies Inc,60000000000
+UBER,Uber Technologies Inc,160000000000
+ANET,Arista Networks Inc,120000000000
+SMCI,Super Micro Computer Inc,50000000000
+ARM,Arm Holdings plc,140000000000
+MU,Micron Technology Inc,120000000000
+LRCX,Lam Research Corporation,120000000000
+AMAT,Applied Materials Inc,210000000000
+KLAC,KLA Corporation,100000000000
+CDNS,Cadence Design Systems Inc,90000000000
+SNPS,Synopsys Inc,90000000000
+FTNT,Fortinet Inc,55000000000
+NET,Cloudflare Inc,50000000000
+ZS,Zscaler Inc,35000000000
+TEAM,Atlassian Corporation,60000000000
+TTD,The Trade Desk Inc,45000000000
+APP,AppLovin Corporation,90000000000
+DUOL,Duolingo Inc,12000000000
+CELH,Celsius Holdings Inc,18000000000
+MELI,MercadoLibre Inc,90000000000
+SE,Sea Ltd,35000000000
+PINS,Pinterest Inc,25000000000
+RBLX,Roblox Corp,35000000000
+HOOD,Robinhood Markets Inc,40000000000
+COIN,Coinbase Global Inc,60000000000
+AFRM,Affirm Holdings Inc,18000000000
+ABNB,Airbnb Inc,110000000000
+BKNG,Booking Holdings Inc,170000000000
+SPOT,Spotify Technology SA,120000000000
+ISRG,Intuitive Surgical Inc,190000000000
+DXCM,DexCom Inc,50000000000
+BSX,Boston Scientific Corp,150000000000
+SYK,Stryker Corporation,140000000000
+TMO,Thermo Fisher Scientific Inc,210000000000
+DHR,Danaher Corporation,160000000000
+GE,GE Aerospace,210000000000
+GEV,GE Vernova Inc,90000000000
+VRT,Vertiv Holdings Co,50000000000
+ETN,Eaton Corporation plc,130000000000
+PH,Parker-Hannifin Corporation,70000000000
+TT,Trane Technologies plc,75000000000
+IR,Ingersoll Rand Inc,35000000000
+ROP,Roper Technologies Inc,80000000000
+DE,Deere & Company,130000000000
+CAT,Caterpillar Inc,170000000000
+UBER,Uber Technologies Inc,160000000000
+V,Visa Inc,650000000000
+MA,Mastercard Inc,500000000000
+PYPL,PayPal Holdings Inc,90000000000
+AXP,American Express Company,200000000000
+FI,Fiserv Inc,110000000000
+FICO,Fair Isaac Corporation,35000000000
+MCO,Moody's Corporation,85000000000
+SPGI,S&P Global Inc,160000000000
+ICE,Intercontinental Exchange Inc,95000000000
+MSCI,MSCI Inc,45000000000
+ADSK,Autodesk Inc,60000000000
+WDAY,Workday Inc,70000000000
+HUBS,HubSpot Inc,40000000000
+CRWV,CoreWeave Inc,25000000000
