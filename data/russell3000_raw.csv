@@ -1,0 +1,11 @@
+ticker,name,market_cap,security_type,country,sector,industry
+AAPL,Apple Inc,3200000000000,Common Stock,United States,Technology,Consumer Electronics
+MSFT,Microsoft Corporation,3100000000000,Common Stock,United States,Technology,Software - Infrastructure
+NVDA,NVIDIA Corporation,2900000000000,Common Stock,United States,Technology,Semiconductors
+AMZN,Amazon.com Inc,1900000000000,Common Stock,United States,Consumer Cyclical,Internet Retail
+META,Meta Platforms Inc,1300000000000,Common Stock,United States,Communication Services,Internet Content & Information
+AVGO,Broadcom Inc,800000000000,Common Stock,United States,Technology,Semiconductors
+TSLA,Tesla Inc,550000000000,Common Stock,United States,Consumer Cyclical,Auto Manufacturers
+NFLX,Netflix Inc,400000000000,Common Stock,United States,Communication Services,Entertainment
+AMD,Advanced Micro Devices Inc,250000000000,Common Stock,United States,Technology,Semiconductors
+PLTR,Palantir Technologies Inc,60000000000,Common Stock,United States,Technology,Software - Infrastructure
